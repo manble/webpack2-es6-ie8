@@ -1,0 +1,8 @@
+/* line 1, public/scss/pages/index/basic.scss */
+body {
+  background: #DDD;
+  padding: 10px 40px;
+  margin: 10px 40px;
+  /*no*/
+  text-shadow: rem(5px 5px #FFF, -1px -1px #FFF);
+}
